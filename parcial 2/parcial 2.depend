@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1606091494 source:c:\users\thomas pc\onedrive\desktop\tps\tp 1\parcial 2 bicicletas\utn.c
+	"utn.h"
+
+1606091494 c:\users\thomas pc\onedrive\desktop\tps\tp 1\parcial 2 bicicletas\utn.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1606091692 source:c:\users\thomas pc\onedrive\desktop\tps\tp 1\parcial 2 bicicletas\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Bici.h"
+
+1606091494 c:\users\thomas pc\onedrive\desktop\tps\tp 1\parcial 2 bicicletas\linkedlist.h
+
+1606267630 c:\users\thomas pc\onedrive\desktop\tps\tp 1\parcial 2 bicicletas\bici.h
+
+1606267088 source:c:\users\thomas pc\onedrive\desktop\tps\tp 1\parcial 2 bicicletas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"utn.h"
+	"Bici.h"
+	"parcer.h"
+
+1606091494 c:\users\thomas pc\onedrive\desktop\tps\tp 1\parcial 2 bicicletas\parcer.h
+
+1606267383 source:c:\users\thomas pc\onedrive\desktop\tps\tp 1\parcial 2 bicicletas\parcer.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bici.h"
+	"parcer.h"
+
+1606266137 source:c:\users\thomas pc\onedrive\desktop\tps\tp 1\parcial 2 bicicletas\bici.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Bici.h"
+
+1606278968 source:c:\users\sentey\desktop\parcial 2 bicicletas\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Bici.h"
+
+1606091494 c:\users\sentey\desktop\parcial 2 bicicletas\linkedlist.h
+
+1606278042 c:\users\sentey\desktop\parcial 2 bicicletas\bici.h
+
+1606278556 source:c:\users\sentey\desktop\parcial 2 bicicletas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"utn.h"
+	"Bici.h"
+	"parcer.h"
+
+1606091494 c:\users\sentey\desktop\parcial 2 bicicletas\utn.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1606091494 c:\users\sentey\desktop\parcial 2 bicicletas\parcer.h
+
+1606277326 source:c:\users\sentey\desktop\parcial 2 bicicletas\parcer.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bici.h"
+	"parcer.h"
+
+1606091494 source:c:\users\sentey\desktop\parcial 2 bicicletas\utn.c
+	"utn.h"
+
+1606278042 source:c:\users\sentey\desktop\parcial 2 bicicletas\bici.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Bici.h"
+
+1606312583 source:c:\users\usuario\downloads\parcial_2_bicicletas\parcial 2 bicicletas\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"Linkedlist.h"
+	"utn.h"
+	"Bicicleta.h"
+	"parser.h"
+
+1606091496 c:\users\usuario\downloads\parcial_2_bicicletas\parcial 2 bicicletas\linkedlist.h
+
+1606091496 c:\users\usuario\downloads\parcial_2_bicicletas\parcial 2 bicicletas\utn.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1606310908 source:c:\users\usuario\downloads\parcial_2_bicicletas\parcial 2 bicicletas\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Linkedlist.h"
+	"Bicicleta.h"
+	"parser.h"
+
+1606091496 source:c:\users\usuario\downloads\parcial_2_bicicletas\parcial 2 bicicletas\utn.c
+	"utn.h"
+
+1606312553 source:c:\users\usuario\downloads\parcial_2_bicicletas\parcial 2 bicicletas\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Linkedlist.h"
+	"Bicicleta.h"
+
+1606278044 c:\users\usuario\downloads\parcial_2_bicicletas\parcial 2 bicicletas\bicicleta.h
+
+1606091496 c:\users\usuario\downloads\parcial_2_bicicletas\parcial 2 bicicletas\parser.h
+
+1606311026 source:c:\users\usuario\downloads\parcial_2_bicicletas\parcial 2 bicicletas\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Linkedlist.h"
+	"Bicicleta.h"
+
+1606316031 source:c:\users\usuario\downloads\parcial_2_bicicletas\parcial 2\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Linkedlist.h"
+	"Bicicleta.h"
+
+1606091496 c:\users\usuario\downloads\parcial_2_bicicletas\parcial 2\linkedlist.h
+
+1606316086 c:\users\usuario\downloads\parcial_2_bicicletas\parcial 2\bicicleta.h
+
+1606311026 source:c:\users\usuario\downloads\parcial_2_bicicletas\parcial 2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Linkedlist.h"
+	"Bicicleta.h"
+
+1606316031 source:c:\users\usuario\downloads\parcial_2_bicicletas\parcial 2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Linkedlist.h"
+	"Bicicleta.h"
+	"parser.h"
+
+1606091496 c:\users\usuario\downloads\parcial_2_bicicletas\parcial 2\parser.h
+
+1606091496 source:c:\users\usuario\downloads\parcial_2_bicicletas\parcial 2\utn.c
+	"utn.h"
+
+1606091496 c:\users\usuario\downloads\parcial_2_bicicletas\parcial 2\utn.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1606314863 source:c:\users\usuario\downloads\parcial_2_bicicletas\parcial 2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"Linkedlist.h"
+	"utn.h"
+	"Bicicleta.h"
+	"parser.h"
+	<time.h>
+
